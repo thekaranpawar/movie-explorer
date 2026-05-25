@@ -85,7 +85,7 @@ movie-explorer/
 ---
 
 ## ⚙️ Installation & Setup
-
+```
 ### 1️⃣ Clone the repository
 
 Bash
@@ -109,7 +109,7 @@ npm install
 Bash
 
 npm run dev
----
+```
 
 ## 🔑 Environment Variables
 
@@ -145,12 +145,13 @@ VITE_API_KEY=your_api_key
 
 ## 🧪 Available Scripts
 
-Bash
+```Bash
 
 npm run dev       # Start development server
 npm run build     # Create production build
 npm run preview   # Preview production build
 npm run lint      # Run ESLint
+```
 
 ---
 
@@ -174,7 +175,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-Karan Pawar  
+Karan Pawar 
 Java Full Stack Developer 
 Passionate about building scalable web applications  
 
