@@ -85,7 +85,7 @@ movie-explorer/
 ---
 
 ## ⚙️ Installation & Setup
-
+```
 ### 1️⃣ Clone the repository
 
 Bash
@@ -109,7 +109,7 @@ npm install
 Bash
 
 npm run dev
-
+```
 ---
 
 ## 🔑 Environment Variables
