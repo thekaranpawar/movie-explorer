@@ -90,7 +90,7 @@ movie-explorer/
 
 Bash
 
-git clone https://github.com/your-username/movie-explorer.git
+git clone https://github.com/thekaranpawar/movie-explorer.git
 
 ### 2️⃣ Navigate to project directory
 
