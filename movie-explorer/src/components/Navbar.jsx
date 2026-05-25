@@ -16,6 +16,9 @@ function Navbar() {
             border: "1px solid black",
             borderRadius: "3px",
             padding: "6px 12px",
+            "@media (max-width: 450px)": {
+              padding: "2px 4px"
+            }
           }}
         >
           Favorites ❤️
@@ -28,6 +31,12 @@ function Navbar() {
             left: "50%",
             transform: "translateX(-50%)",
             whiteSpace: "nowrap",
+            "@media (max-width:666px)": {
+              left: "auto",
+              right: "10px",
+              transform: "none",
+              fontSize: "16px",
+            },
           }}
         >
           Search your Favourite Movies
