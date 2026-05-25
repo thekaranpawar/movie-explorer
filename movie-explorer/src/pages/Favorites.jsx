@@ -8,10 +8,10 @@ function Favorites() {
   return (
     <Container>
 
-      <Typography variant="h4" 
+      <Typography variant="h5" 
         sx={{ mt: 3, mb: 3 }}
       > 
-        My Favorites Movies here : 
+        My Favorite Movies:
       </Typography>
 
       {favorites.length === 0 ? (

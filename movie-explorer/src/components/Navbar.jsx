@@ -39,7 +39,7 @@ function Navbar() {
             },
           }}
         >
-          Search your Favourite Movies
+          Movie Search Hub
         </Typography>
 
       </Toolbar>
