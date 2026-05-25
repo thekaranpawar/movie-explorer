@@ -85,12 +85,12 @@ movie-explorer/
 ---
 
 ## ⚙️ Installation & Setup
-```
+
 ### 1️⃣ Clone the repository
 
 Bash
 
-git clone https://github.com/thekaranpawar/movie-explorer.git
+git clone https://github.com/your-username/movie-explorer.git
 
 ### 2️⃣ Navigate to project directory
 
@@ -109,7 +109,6 @@ npm install
 Bash
 
 npm run dev
-```
 ---
 
 ## 🔑 Environment Variables
